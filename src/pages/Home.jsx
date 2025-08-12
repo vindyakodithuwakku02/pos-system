@@ -5,6 +5,7 @@ import {BsCashCoin} from "react-icons/bs";
 import {GrInProgress} from "react-icons/gr";
 import MiniCard from "../components/home/MiniCard"
 import RecentOrders from "../components/home/RecentOrders"
+import OrderList  from '../components/home/OrderList'
 
 const Home = () => {
   return (
